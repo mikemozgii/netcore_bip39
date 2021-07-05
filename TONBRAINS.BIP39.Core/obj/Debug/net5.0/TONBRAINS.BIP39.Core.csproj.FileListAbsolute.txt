@@ -1,0 +1,12 @@
+C:\Users\mikek\source\repos\TONBRAINS.BIP39\TONBRAINS.BIP39.Core\bin\Debug\net5.0\TONBRAINS.BIP39.Core.deps.json
+C:\Users\mikek\source\repos\TONBRAINS.BIP39\TONBRAINS.BIP39.Core\bin\Debug\net5.0\TONBRAINS.BIP39.Core.dll
+C:\Users\mikek\source\repos\TONBRAINS.BIP39\TONBRAINS.BIP39.Core\bin\Debug\net5.0\ref\TONBRAINS.BIP39.Core.dll
+C:\Users\mikek\source\repos\TONBRAINS.BIP39\TONBRAINS.BIP39.Core\bin\Debug\net5.0\TONBRAINS.BIP39.Core.pdb
+C:\Users\mikek\source\repos\TONBRAINS.BIP39\TONBRAINS.BIP39.Core\obj\Debug\net5.0\TONBRAINS.BIP39.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikek\source\repos\TONBRAINS.BIP39\TONBRAINS.BIP39.Core\obj\Debug\net5.0\TONBRAINS.BIP39.Core.AssemblyInfoInputs.cache
+C:\Users\mikek\source\repos\TONBRAINS.BIP39\TONBRAINS.BIP39.Core\obj\Debug\net5.0\TONBRAINS.BIP39.Core.AssemblyInfo.cs
+C:\Users\mikek\source\repos\TONBRAINS.BIP39\TONBRAINS.BIP39.Core\obj\Debug\net5.0\TONBRAINS.BIP39.Core.csproj.CoreCompileInputs.cache
+C:\Users\mikek\source\repos\TONBRAINS.BIP39\TONBRAINS.BIP39.Core\obj\Debug\net5.0\TONBRAINS.BIP39.Core.dll
+C:\Users\mikek\source\repos\TONBRAINS.BIP39\TONBRAINS.BIP39.Core\obj\Debug\net5.0\ref\TONBRAINS.BIP39.Core.dll
+C:\Users\mikek\source\repos\TONBRAINS.BIP39\TONBRAINS.BIP39.Core\obj\Debug\net5.0\TONBRAINS.BIP39.Core.pdb
+C:\Users\mikek\source\repos\TONBRAINS.BIP39\TONBRAINS.BIP39.Core\obj\Debug\net5.0\TONBRAINS.BIP39.Core.csprojAssemblyReference.cache

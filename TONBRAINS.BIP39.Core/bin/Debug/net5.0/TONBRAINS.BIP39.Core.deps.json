@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TONBRAINS.BIP39.Core/1.0.0": {
+        "runtime": {
+          "TONBRAINS.BIP39.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TONBRAINS.BIP39.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
